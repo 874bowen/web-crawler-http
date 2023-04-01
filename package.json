@@ -1,0 +1,23 @@
+{
+  "name": "web-crawler-http",
+  "version": "1.0.0",
+  "description": "A project to crawl websites and generate summary of links to other pages",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/874bowen/web-crawler-http.git"
+  },
+  "author": "Ivan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/874bowen/web-crawler-http/issues"
+  },
+  "homepage": "https://github.com/874bowen/web-crawler-http#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
