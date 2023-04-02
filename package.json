@@ -19,5 +19,8 @@
   "homepage": "https://github.com/874bowen/web-crawler-http#readme",
   "devDependencies": {
     "jest": "^29.5.0"
+  },
+  "dependencies": {
+    "jsdom": "^21.1.1"
   }
 }
